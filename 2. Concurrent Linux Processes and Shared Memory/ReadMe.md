@@ -1,5 +1,4 @@
 Author: Kishan Bhakta
-E-mail: knbkb7@mail.umsl.edu
 
 How to create executable file:
 
@@ -13,10 +12,6 @@ How to uninstall the program:
 
 $ make clean
 
-Description:
-
-This is project 2 of CMPSCI 4760 FA 2021.
-Users can find the project question at http://www.cs.umsl.edu/~sanjiv/classes/cs4760/assignments/ass2.pdf .
 
 Implemented runsim as follows:
 1. Check for the command line argument and output a usage message if the argument is not appropriate. 2. Allocate shared memory and populate it with the number of licenses from step 1.
