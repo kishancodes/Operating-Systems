@@ -1,0 +1,16 @@
+To build, run the following command:
+
+$ make
+
+At any time, run the following command for help:
+
+$ ./oss -h
+
+The program will run with the assigned defaults if you run the following:
+
+$ ./oss
+
+
+To uninstall after a build, use the following command:
+
+$ make clean
