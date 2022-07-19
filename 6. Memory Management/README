@@ -19,3 +19,4 @@ $ make clean
 Goal:
 The goal of this project is to learn about memory management using virtual memory (paging) in an operating system.
 It works on the specified page management algorithm to allocate and deallocate pages of memory.
+It specializes in race conditions.
