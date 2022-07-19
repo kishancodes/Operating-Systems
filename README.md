@@ -10,4 +10,4 @@ Project Hierarchy:
 6. Memory Management
               
               
-Language: C/++, Make for executables
+Language: C, Make for executables
